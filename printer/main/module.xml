@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<module xmlns="urn:jboss:module:1.8" name="printer">
+    <resources>
+        <resource-root path="../build/libs/printer-1.0-SNAPSHOT.jar"/>
+    </resources>
+</module>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<module xmlns="urn:jboss:module:1.8" name="launcher">
+
+    <main-class name="org.jboss.launcher.Launcher"/>
+
+    <resources>
+        <resource-root path="../build/libs/launcher-1.0-SNAPSHOT.jar"/>
+    </resources>
+
+    <dependencies>
+        <module name="printer"/>
+    </dependencies>
+</module>
